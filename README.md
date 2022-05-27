@@ -6,6 +6,8 @@ Some Optional scripts that will make it look better
 - https://forum.cfx.re/t/release-doj-styled-carhud/51895
 - https://forum.cfx.re/t/release-frfuel-v1-7-0/5467
 
+### Idea 
+https://www.gta5-mods.com/scripts/cruise-control
 
 ### Installing
 
